@@ -1,0 +1,3 @@
+%{"jazz": {:git, "git://github.com/meh/jazz.git", "e0cf73011f64868534cd229c458e205ce04a6619", []},
+  "jiffy": {:git, "git://github.com/davisp/jiffy.git", "99867af6e9bfec6bb80b10524d4dc27e39150dee", []},
+  "poison": {:git, "git://github.com/devinus/poison.git", "343da29cc7305934d2139d298b8f598be61cdcad", []}}
